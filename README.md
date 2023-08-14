@@ -5,5 +5,5 @@
 *   pip install -r requirements
 
 Usage:
-* python datalog/datalog.py 
+* python datalogX/datalog.py 
 
